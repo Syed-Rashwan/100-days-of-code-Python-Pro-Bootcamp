@@ -1,3 +1,4 @@
+#This was an assignment. 
 student_scores = {
     'Harry': 88,
     'Ron': 78,
